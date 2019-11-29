@@ -56,5 +56,5 @@
 *.prefab linguist-generated
 *.unity linguist-generated
 
-#Don't include Shader Files 
+#Don't represent Shader Files 
 *.shader linguist-detectable=false

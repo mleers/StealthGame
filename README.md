@@ -6,7 +6,7 @@ Character assets and sounds are from the Unity asset store, scripts/behaviors an
 * instantiating unit models and prefabs
 * creating/assigning animator states and transitions
 * assigning physics to game objects
-* scripting object interactions
+* scripting object interactions  (inside Assets folder)
     * character movement in 3D
     * creating enemy behaviors with raycasting and waypoints
     * win/loss screens from trigger interactions
